@@ -34,7 +34,7 @@ public class InsertTest {
 		ResultSet resultSet = null;
 		String dbUrl = "jdbc:oracle:thin:@localhost:1521:xe";
 		String dbUserName = "j2eeAdmin";
-		String dbPassword = "3Nath";
+		String dbPassword = "****";
 
 		scanner = new Scanner(System.in);
 		if (scanner != null) {
