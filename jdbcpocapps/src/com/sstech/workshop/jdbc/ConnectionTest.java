@@ -23,7 +23,7 @@ public class ConnectionTest {
 		Connection connection ;
 		String dbUrl = "jdbc:oracle:thin:@localhost:1521:xe";
 		String dbUserName = "j2eeAdmin";
-		String dbPassword = "******";
+		String dbPassword = "*****";
 		
 		try {
 //			Class.forName("oracle.jdbc.driver.OracleDriver");

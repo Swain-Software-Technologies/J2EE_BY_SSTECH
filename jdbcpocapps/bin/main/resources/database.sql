@@ -16,7 +16,7 @@ password :- admin
 -----------------------------
 
 username :- j2eeadmin
-password :- 3Nath
+password :- Short Form of Trinath
 
 
 
